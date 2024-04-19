@@ -45,3 +45,82 @@
     
 }
 
+
+@keyframes letter-animation {
+  0% {
+      color:rgb(255, 0, 0) ;
+  }
+ 
+}@keyframes logo-circle-animation {
+  0% {
+      color:rgb(255, 255, 255) ;
+  }
+ 
+}
+
+
+
+.subaddress-1{
+  animation: letter-animation 13s infinite ;
+
+
+}  .subaddress-1{
+
+  animation: letter-animation 3s infinite;
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: 0.1rem;
+  font-style: normal;
+  background-color: rgb(35, 33, 33);
+  padding-left: 3rem;
+  padding-right: 3rem;
+  border-radius: 10px;
+  margin-top:   5rem;
+  margin-left: 40rem;
+  
+  
+}
+
+
+
+
+
+
+
+
+
+
+@keyframes query-animation {
+  0% {
+      color:rgb(255, 0, 0) ;
+  }
+ 
+}@keyframes logo-circle-animation {
+  0% {
+      color:rgb(255, 255, 255) ;
+  }
+ 
+}
+
+
+
+.subaddress-2{
+  animation: query-animation 3s infinite;
+
+
+}  .subaddress-2{
+  animation: query-animation  3s infinite;
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: 0.1rem;
+  font-style: normal;
+  background-color: rgb(35, 33, 33);
+  padding-left: 3rem;
+  padding-right: 3rem;
+  border-radius: 10px;
+  margin-bottom: 55rem;
+  margin-right: 60rem ;
+  
+}
+
+
